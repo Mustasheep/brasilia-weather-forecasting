@@ -1,3 +1,5 @@
+⚠️ Projeto em andamento...
+
 # Bias-Corrected Weather Forecasting: Melhorando as previsões de temperatura com aprendizado de máquina
 
 Este é um projeto da faculdade Cruzeiro do Sul Virtual, onde permitiu utilizar qualquer base real de preferência. Deste modo, este dataset contém informações diárias de qualidade do ar para Brasília, coletadas durante todo o ano de 2024, a partir do Banco de Dados Meteorológicos para Ensino e Pesquisa (BDMEP) do INMET. Os dados incluem variáveis como concentração de poluentes atmosféricos, temperatura, umidade, precipitação e outros parâmetros meteorológicos relevantes para análise ambiental e estudos de poluição do ar.
