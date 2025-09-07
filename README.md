@@ -12,8 +12,7 @@ O objetivo deste conjunto de dados é permitir análises temporais, modelagem pr
 - Tratamento de valores ausentes e engenharia de features.
 - Análise exploratória dos dados
 - Treinamento de diferentes algoritmos de regressão.
-- Avaliação e comparação de métricas (MAE, RMSE, R²).
-- Construção de pipeline em Azure ML para simulação de implantação como serviço preditivo.
+- Avaliação e comparação de métricas (MAE, RMSE, R²) com MLFlow.
 
 # Estrutura do Projeto
 
