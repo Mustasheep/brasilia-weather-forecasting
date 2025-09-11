@@ -1,0 +1,17 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandComponent.schema.json
+name: train_xgboost_forecaster
+display_name: Treinamento - XGBoost
+description: Treina um modelo XGBoost para previsão de séries temporais.
+version: 1
+
+inputs:
+  upload_data:
+    type: uri_file
+
+code: ../src/
+
+environment: azureml:brasilia-weather-forecasting:latest
+
+command: >-
+  python train_forecast_model.py
+  --upload_data ${{inputs.upload_data}}
