@@ -4,3 +4,6 @@ scraping.py
 
 # Ambiente virtual
 .venv/
+
+# Credenciais
+.env
