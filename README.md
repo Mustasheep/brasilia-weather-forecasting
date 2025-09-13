@@ -67,6 +67,6 @@ Este trabalho reflete um passo importante para a integração de dados abertos e
 
 Para dúvidas, sugestões ou colaborações, entre em contato!
 
-***
+![Linkedin](https://www.linkedin.com/in/thiago-mustasheep/)
 
-[1](https://github.com/Mustasheep/brasilia-weather-forecasting)
+***
