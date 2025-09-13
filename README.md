@@ -1,5 +1,3 @@
-⚠️ Projeto em andamento...
-
 # Análise de Séries Temporais Climáticas em Brasília
 
 Este é um projeto da faculdade Cruzeiro do Sul Virtual, onde permitiu utilizar qualquer base real de preferência. Deste modo, este dataset contém informações diárias de qualidade do ar para Brasília, coletadas durante todo o ano de 2024, a partir do Banco de Dados Meteorológicos para Ensino e Pesquisa (BDMEP) do INMET. Os dados incluem variáveis como concentração de poluentes atmosféricos, temperatura, umidade, precipitação e outros parâmetros meteorológicos relevantes para análise ambiental e estudos de poluição do ar.
@@ -29,3 +27,46 @@ brasilia-weather-forecasting/
 ```
 
 
+Aqui está uma sugestão para finalizar o README do seu repositório, com uma seção de "Considerações Finais" e "Como usar", que traz clareza para quem acessar o projeto:
+
+***
+
+## Considerações Finais
+
+Este projeto demonstra como técnicas de Machine Learning podem ser aplicadas para previsão climática em Brasília, com foco na classificação de eventos de chuva usando dados reais e temporais. O uso do XGBoost se destacou por sua alta capacidade preditiva e equilíbrio entre sensibilidade e precisão, aspectos fundamentais para aplicações meteorológicas.
+
+Além da modelagem, o projeto também proporciona insights relevantes sobre as variáveis climáticas que mais impactam a previsão.
+
+Este trabalho reflete um passo importante para a integração de dados abertos e métodos avançados visando o monitoramento ambiental e apoio a políticas públicas.
+
+***
+
+## Como usar este repositório
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Mustasheep/brasilia-weather-forecasting.git
+   cd brasilia-weather-forecasting
+   ```
+
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Execute os notebooks na ordem:
+   - `01_process_data.ipynb`: para limpeza e engenharia de features
+   - `02_eda.ipynb`: para análise exploratória 
+   - `03_trai_data.ipynb`: para treinamento dos modelos
+
+4. Explore os resultados e métricas apresentadas para entender o desempenho dos modelos.
+
+***
+
+## Contato
+
+Para dúvidas, sugestões ou colaborações, entre em contato!
+
+***
+
+[1](https://github.com/Mustasheep/brasilia-weather-forecasting)
