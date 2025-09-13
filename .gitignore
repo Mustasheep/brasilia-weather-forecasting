@@ -2,6 +2,9 @@
 rasc.txt
 scraping.py
 train_data.ipynb
+components/
+src/
+run_pipeline.py
 
 # Ambiente virtual
 .venv/
