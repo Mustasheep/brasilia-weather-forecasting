@@ -67,6 +67,11 @@ Este trabalho reflete um passo importante para a integração de dados abertos e
 
 Para dúvidas, sugestões ou colaborações, entre em contato!
 
-![Linkedin](https://www.linkedin.com/in/thiago-mustasheep/)
+  <p align="left">
+  <a href="https://www.linkedin.com/in/thiago-mustasheep"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=lMUZwFHycz7a&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:thiagoassis.scientist@gmail.com" width="32px" alt="Gmail" title="Email"><img width="32px" src="https://img.icons8.com/?size=100&id=48165&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 ***
